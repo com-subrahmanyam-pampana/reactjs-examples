@@ -6,7 +6,8 @@
         "description": "Violence erupts between red sandalwood smugglers and the police charged with bringing down their organization",
         "category": "Drama",
         "rating": 9.3,
-        "releaseYear": 2021
+        "releaseYear": 2021,
+        "videoURL":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
     },
     "trending": [
         {
@@ -16,7 +17,8 @@
             "description": "The Avengers assemble to defeat Thanos.",
             "category": "Action",
             "rating": 8.4,
-            "releaseYear": 2019
+            "releaseYear": 2019,
+             "videoURL":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
         },
         {
             "id": "4",
@@ -25,7 +27,8 @@
             "description": "A man’s descent into madness creates the infamous Joker.",
             "category": "Drama",
             "rating": 8.5,
-            "releaseYear": 2019
+            "releaseYear": 2019,
+             "videoURL":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
         }
     ],
     "categories": {
@@ -36,7 +39,8 @@
                 "thumbnail": "https://example.com/thumbnails/mad_max.jpg",
                 "description": "In a post-apocalyptic wasteland, Max teams up with Furiosa.",
                 "rating": 8.1,
-                "releaseYear": 2015
+                "releaseYear": 2015,
+                 "videoURL":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
             },
             {
                 "id": "6",
@@ -44,7 +48,8 @@
                 "thumbnail": "https://example.com/thumbnails/john_wick.jpg",
                 "description": "A retired hitman seeks vengeance.",
                 "rating": 7.4,
-                "releaseYear": 2014
+                "releaseYear": 2014,
+                 "videoURL":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
             }
         ],
         "Comedy": [
@@ -54,7 +59,8 @@
                 "thumbnail": "https://example.com/thumbnails/budapest_hotel.jpg",
                 "description": "A concierge is framed for murder.",
                 "rating": 8.1,
-                "releaseYear": 2014
+                "releaseYear": 2014,
+                 "videoURL":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
             },
             {
                 "id": "8",
@@ -62,7 +68,8 @@
                 "thumbnail": "https://example.com/thumbnails/superbad.jpg",
                 "description": "Two co-dependent high schoolers attempt to throw a party.",
                 "rating": 7.6,
-                "releaseYear": 2007
+                "releaseYear": 2007,
+                 "videoURL":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
             }
         ],
         "Horror": [
@@ -72,7 +79,8 @@
                 "thumbnail": "https://example.com/thumbnails/get_out.jpg",
                 "description": "A man uncovers disturbing secrets at his girlfriend's family home.",
                 "rating": 7.7,
-                "releaseYear": 2017
+                "releaseYear": 2017,
+                 "videoURL":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
             },
             {
                 "id": "10",
@@ -80,7 +88,8 @@
                 "thumbnail": "https://example.com/thumbnails/quiet_place.jpg",
                 "description": "A family struggles to survive in silence.",
                 "rating": 7.5,
-                "releaseYear": 2018
+                "releaseYear": 2018,
+                 "videoURL":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
             }
         ]
     },
@@ -93,7 +102,8 @@
                 "description": "A thief who enters the dreams of others to steal secrets from their subconscious.",
                 "category": "Sci-Fi",
                 "rating": 8.8,
-                "releaseYear": 2010
+                "releaseYear": 2010,
+                 "videoURL":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
             },
             {
                 "id": "2",
@@ -102,7 +112,8 @@
                 "description": "A computer hacker learns from mysterious rebels about the true nature of his reality.",
                 "category": "Action",
                 "rating": 8.7,
-                "releaseYear": 1999
+                "releaseYear": 1999,
+                 "videoURL":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
             }
         ],
         "spanish": [
@@ -113,7 +124,8 @@
                 "description": "A retired legal counselor revisits a closed case about the murder of a young woman.",
                 "category": "Drama",
                 "rating": 8.2,
-                "releaseYear": 2009
+                "releaseYear": 2009,
+                 "videoURL":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
             },
             {
                 "id": "4",
@@ -122,7 +134,8 @@
                 "description": "A criminal mastermind plans the biggest heist in history, targeting the Royal Mint of Spain.",
                 "category": "Thriller",
                 "rating": 8.3,
-                "releaseYear": 2017
+                "releaseYear": 2017,
+                 "videoURL":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
             }
         ],
         "french": [
@@ -133,7 +146,8 @@
                 "description": "A shy waitress sets out to improve the lives of the people around her, while grappling with her own isolation.",
                 "category": "Romance",
                 "rating": 8.3,
-                "releaseYear": 2001
+                "releaseYear": 2001,
+                 "videoURL":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
             },
             {
                 "id": "6",
@@ -142,7 +156,8 @@
                 "description": "Three young men in the suburbs of Paris struggle with police violence and social unrest.",
                 "category": "Drama",
                 "rating": 8.1,
-                "releaseYear": 1995
+                "releaseYear": 1995,
+                 "videoURL":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
             }
         ],
         "hindi": [
@@ -153,7 +168,8 @@
                 "description": "Two friends search for their long-lost companion. They recall their time together at college.",
                 "category": "Comedy",
                 "rating": 8.4,
-                "releaseYear": 2009
+                "releaseYear": 2009,
+                 "videoURL":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
             },
             {
                 "id": "8",
@@ -162,7 +178,8 @@
                 "description": "The true story of a wrestler who trains his daughters to become world-class wrestlers.",
                 "category": "Biographical",
                 "rating": 8.4,
-                "releaseYear": 2016
+                "releaseYear": 2016,
+                 "videoURL":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
             }
         ]
     }
