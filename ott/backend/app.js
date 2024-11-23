@@ -10,6 +10,8 @@ const express = require("express");
 const app = express();
 const bodyParser = require("body-parser");
 const movieslist=require('./data/movies-info.json')
+const recommendations=require('./data/recommendations.json')
+const subscriptionsPlans=require('./data/subscriptions-plans.json')
 const port = 3004;
 const cors = require('cors');
 
@@ -49,10 +51,25 @@ app.get("/movies/list", jsonParser, (req, res) => {
   res.set("Content-Type", "application/json"); 
   res.send(JSON.stringify(movieslist));
 });
+
+app.get("/recommendations/:userId", jsonParser, (req, res) => {
+  res.status(200);
+  res.set("Content-Type", "application/json"); 
+  res.send(JSON.stringify(recommendations[req.params.userId]));
+});
+
+
+app.get("/subscriptions/plans", jsonParser, (req, res) => {
+  res.status(200);
+  res.set("Content-Type", "application/json"); 
+  res.send(JSON.stringify(subscriptionsPlans));
+});
+
+
+
+
+
   
-
-
-
 app.listen(port, () =>
   console.log(`Hello world app listening on port ${port}!`)
 );
